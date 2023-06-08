@@ -1,2 +1,2 @@
 
-let yourArray = {"john", 1, true};
+let yourArray = ["john", 1, true];
